@@ -1,0 +1,9 @@
+TARGETNAME=kernel
+TARGETPATH=.
+TARGETTYPE=DRIVER
+
+INCLUDES=C:\WinDDK\7\inc
+
+SOURCES= \
+	..\kernel.c \
+   
